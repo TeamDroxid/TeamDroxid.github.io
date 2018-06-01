@@ -1,3 +1,1 @@
-# ditpowuh.github.io
-
-#### This is literally for a website. That's all.
+#### This is Team Droxid's Official Website.
