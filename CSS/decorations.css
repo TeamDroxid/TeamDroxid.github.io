@@ -7,9 +7,4 @@ Copyright © Droxid Technologies 2018 Copyright Holder All Rights Reserved
   color: white;
 }
 
-body {
-  background-image:
-    linear-gradient(
-      #f701da, #b601da
-    );
-}
+background: linear-gradient(#f701da, #b601da);
